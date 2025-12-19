@@ -28,5 +28,5 @@ Analyzed the spread and trends of Covid-19 cases in Kenya using real datasets.
 
 ## 📫 Contact
 - 📧 Email: owendisarah706@gmail.com  
-- 🔗 GitHub: [github.com/sarah-owendi](https://github.com/sarah-owendi)
+- 🔗 GitHub: [[github.com/owendi17](https://github.com/sarah-owendi)](https://github.com/owendi17/)
 - 💼 LinkedIn: https://www.linkedin.com/in/sarah-owendi-5bb19133b/
